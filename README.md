@@ -3,9 +3,9 @@
 <h3 align="center">Student at Marist college studying computer science and cybersecurity</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/nyNS6Cfrnkdj2/200.gif">
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning to work with **Linux**
 
-- 🤝 I’m looking for help with **Learning Javascript**
+- 🤝 I’m looking for help with **Learning to use Docker**
 
 - 💬 Ask me about **Music, Exercise, Investing, and Comedy**
 

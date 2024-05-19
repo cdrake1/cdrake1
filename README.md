@@ -3,7 +3,7 @@
 <h3 align="center">Im a CS and cyber student @ Marist college</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/nyNS6Cfrnkdj2/200.gif">
 
-- I’m currently working on a fixing up my **Compiler** and building my first **OS and Chip-8 emulator** so if you find that interesting let's talk
+- I’m currently working on building my first **OS and Chip-8 emulator** so if you find that interesting let's talk
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

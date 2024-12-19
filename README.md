@@ -1,9 +1,9 @@
 
 <h1 align="center">Hey, I'm Collin Drake</h1>
-<h3 align="center">Im a CS and cyber student @ Marist college</h3>
+<h3 align="center">Im a CS and Cybersecurity graduate from Marist college</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/nyNS6Cfrnkdj2/200.gif">
 
-- I’m currently working on building my first **OS** so if you find that interesting let's talk
+- Im cooking up some new project ideas. I will be back!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

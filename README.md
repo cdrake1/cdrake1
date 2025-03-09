@@ -1,9 +1,9 @@
 
 <h1 align="center">Hey, I'm Collin Drake</h1>
-<h3 align="center">Im a CS and Cybersecurity graduate from Marist college</h3>
+<h3 align="center">I'm a CS and Cybersecurity graduate from Marist University and newly admitted to Georgia Tech's Masters in Computer Science program where I will specialize in Computing Systems.</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/nyNS6Cfrnkdj2/200.gif">
 
-- Im cooking up some new project ideas. I will be back!
+- "Ill be back" --. Que some Terminator meme...
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -3,7 +3,7 @@
 <h3 align="center">I'm a CS and Cybersecurity graduate from Marist University and newly admitted to Georgia Tech's Masters in Computer Science program where I will specialize in Computing Systems.</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/nyNS6Cfrnkdj2/200.gif">
 
-- "Ill be back" --. Que some Terminator meme...
+- "Ill be back" --. Queue some Terminator meme...
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

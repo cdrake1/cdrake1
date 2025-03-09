@@ -1,7 +1,7 @@
 
 <h1 align="center">Hey, I'm Collin Drake</h1>
 <h3 align="center">I'm a CS and Cybersecurity graduate from Marist University and newly admitted to Georgia Tech's Masters in Computer Science program where I will specialize in Computing Systems.</h3>
-<img align="right" alt="Coding" width="400" src="[[https://media4.giphy.com/media/nyNS6Cfrnkdj2/200.gif](https://media.giphy.com/media/11KzOet1ElBDz2/giphy.gif?cid=ecf05e47adjzarejylbm947a1ohohrlvqlsxdvvns4e44214&ep=v1_gifs_search&rid=giphy.gif&ct=g)](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmFhbmRsZ2FvaHcwb2p6cXp3bWw0ejh3NmNvM2FtaXQ2bmprbnR3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11KzOet1ElBDz2/giphy.gif)">
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmFhbmRsZ2FvaHcwb2p6cXp3bWw0ejh3NmNvM2FtaXQ2bmprbnR3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11KzOet1ElBDz2/giphy.gif">
 
 - "Ill be back" --. Queue some Terminator meme...
 
